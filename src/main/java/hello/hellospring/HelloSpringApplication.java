@@ -11,3 +11,6 @@ public class HelloSpringApplication {
 	}
 
 }
+class Gi {
+	int a = 2 + 1;
+}
