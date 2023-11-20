@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9ad4d49-8c69-4c3c-8624-37a6b9da796c" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codingrecipe/member/MemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codingrecipe/member/MemberApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codingrecipe/member/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codingrecipe/member/controller/MemberController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +59,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/dlaco/Desktop/Back_End/Back_End_",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -96,7 +92,7 @@
       <workItem from="1700113074803" duration="10266000" />
       <workItem from="1700151882545" duration="85000" />
       <workItem from="1700308081076" duration="8267000" />
-      <workItem from="1700481908593" duration="2262000" />
+      <workItem from="1700481908593" duration="2437000" />
     </task>
     <servers />
   </component>
